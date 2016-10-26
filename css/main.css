@@ -40,31 +40,32 @@ a {
 
 .btn-subtle {
   color: #fff;
-  background-color: #333;
+  background-color: #ccc;
 }
 
 .btn-subtle:hover {
   color: #fff;
-  background-color: #333;
+  background-color: #666;
 }
 
 .btn-ghost {
-  color: #fff;
-  background-color: #333;
-  border-radius: 3px;
+  color: #000;
+  background-color: #fff;
+  border-width: 3px;
+  border-color: #000 solid;
 }
 
 .btn-ghost:hover {
   color: #fff;
-  background-color: #333;
+  background-color: #666;
 }
 
 .btn-warning {
   color: #fff;
-  background-color: #333;
+  background-color: #f33;
 }
 
 .btn-warning:hover {
   color: #fff;
-  background-color: #333;
+  background-color: #933;
 }
