@@ -17,5 +17,18 @@ a {
 }
 
 .btn {
+  display: inline-block;
+  color: #fff;
+  background-color: #000;
+  border-radius: 8px;
+  padding: .4em .75em .3em;
+}
 
+.btn:hover {
+  color: #fff;
+  background-color: #333;
+}
+
+.btn-small {
+  text-size: .875rem;
 }
