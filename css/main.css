@@ -32,3 +32,31 @@ a {
 .btn-small {
   font-size: .875rem;
 }
+
+.btn-big {
+  font-size: 1.125;
+}
+
+.btn-subtle {
+
+}
+
+.btn-subtle:hover {
+
+}
+
+.btn-ghost {
+
+}
+
+.btn-ghost:hover {
+
+}
+
+.btn-warning {
+
+}
+
+.btn-warning:hover {
+
+}
