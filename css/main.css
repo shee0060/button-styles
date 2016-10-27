@@ -21,13 +21,16 @@ a {
   color: #fff;
   background-color: #333;
   border-radius: 8px;
+  border-width: 3px;
   padding: .4em .75em .3em;
   font-size: 1.125rem;
+  border: #333 solid;
 }
 
 .btn:hover {
   color: #fff;
   background-color: #000;
+  border: #000 solid;
 }
 
 .btn-small {
@@ -41,31 +44,35 @@ a {
 .btn-subtle {
   color: #fff;
   background-color: #ccc;
+  border: #ccc solid;
 }
 
 .btn-subtle:hover {
   color: #fff;
   background-color: #666;
+  border: #666 solid;
 }
 
 .btn-ghost {
   color: #000;
   background-color: #fff;
-  border-width: 3px solid #333;
+  border: #333 solid;
 }
 
 .btn-ghost:hover {
   color: #fff;
   background-color: #666;
-  border-width: 3px solid #333;
+  border: #666 solid;
 }
 
 .btn-warning {
   color: #fff;
   background-color: #f33;
+  border: #f33 solid;
 }
 
 .btn-warning:hover {
   color: #fff;
   background-color: #933;
+  border: #933 solid;
 }
