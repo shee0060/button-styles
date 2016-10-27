@@ -51,13 +51,13 @@ a {
 .btn-ghost {
   color: #000;
   background-color: #fff;
-  border-width: #333 3px solid;
+  border-width: 3px solid #333;
 }
 
 .btn-ghost:hover {
   color: #fff;
   background-color: #666;
-  border-width: #666 3px solid;
+  border-width: 3px solid #333;
 }
 
 .btn-warning {
