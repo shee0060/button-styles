@@ -57,6 +57,7 @@ a {
 .btn-ghost:hover {
   color: #fff;
   background-color: #666;
+  border: #666 3px solid;
 }
 
 .btn-warning {
