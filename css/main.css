@@ -21,10 +21,9 @@ a {
   color: #fff;
   background-color: #333;
   border-radius: 8px;
-  border-width: 3px;
   padding: .4em .75em .3em;
   font-size: 1.125rem;
-  border: #333 solid;
+  border: 3px #333 solid;
 }
 
 .btn:hover {
@@ -44,7 +43,7 @@ a {
 .btn-subtle {
   color: #fff;
   background-color: #ccc;
-  border: #ccc solid;
+  border-color: #ccc;
 }
 
 .btn-subtle:hover {
@@ -56,7 +55,7 @@ a {
 .btn-ghost {
   color: #000;
   background-color: #fff;
-  border: #333 solid;
+  border-color: #666;
 }
 
 .btn-ghost:hover {
@@ -68,7 +67,7 @@ a {
 .btn-warning {
   color: #fff;
   background-color: #f33;
-  border: #f33 solid;
+  border-color: #f33;
 }
 
 .btn-warning:hover {
